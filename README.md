@@ -1,0 +1,2 @@
+# zmq_client
+自行修改GlobalConfig中的ip地址为zmq_server的地址
